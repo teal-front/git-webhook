@@ -1,0 +1,23 @@
+{
+  "name": "git-webhook",
+  "version": "1.0.0",
+  "description": "for git webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teal-front/git-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teal-front/git-webhook/issues"
+  },
+  "homepage": "https://github.com/teal-front/git-webhook#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
