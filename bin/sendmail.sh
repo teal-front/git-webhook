@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# slite3 command
+# create table REPOS (repo VARCHAR(500), developers VARCHAR(700));
+# insert into REPOS values ("dsp-tc-pmp", "teal.yao allen.yao");
+# update REPOS set developers="teal.yao" where repo="dsp-tc-pmp";
+ 
 repo=$1
 commitMsg=$2
 db=/data/books/book.slite3
