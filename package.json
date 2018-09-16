@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/teal-front/git-webhook#readme",
   "dependencies": {
-    "koa": "^2.5.3"
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
   }
 }
